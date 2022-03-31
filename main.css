@@ -78,9 +78,17 @@ svg path {
 
 fieldset {
 	margin-bottom: 2rem;
+	border: 1px solid #ccc;
 }
 
 h1 {
 	color: #303030;
 	font-size: 1.5rem;
+}
+
+#cta > * {
+	margin: 1rem;
+	padding: 5px;
+	padding-top: 15px;
+	border: 1px solid #ccc;
 }
