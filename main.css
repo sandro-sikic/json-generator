@@ -1,5 +1,6 @@
 body {
 	font-family: sans-serif;
+	font-size: 14px;
 }
 
 label,
@@ -34,14 +35,16 @@ button {
 	background: #000;
 	color: white;
 	cursor: pointer;
+	font-weight: bold;
 }
 
 *:focus {
-	outline: 2px solid #096a8d;
+	outline: 1px solid #096a8d;
 }
 
-button:focus {
-	outline: 3px solid #45b1d8;
+button:focus,
+button:hover {
+	background-color: #45b1d8;
 }
 
 select {
