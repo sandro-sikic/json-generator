@@ -66,6 +66,7 @@ function addSelect(title, name, options) {
 
 function removeCTA(name) {
 	document.getElementById(name).remove();
+	preview();
 }
 
 function addCTA() {
@@ -108,6 +109,20 @@ function addCTA() {
 	form.appendChild(actions);
 
 	cta.appendChild(form);
+	preview();
+}
+
+function registerOnChangeEvent(tag) {
+	const elements = document.getElementsByTagName(tag);
+	for (const element of elements) {
+		element.oninput = preview;
+	}
 }
 
 preview();
+
+setInterval(() => {
+	registerOnChangeEvent('input');
+	registerOnChangeEvent('textarea');
+	registerOnChangeEvent('select');
+}, 1000);
