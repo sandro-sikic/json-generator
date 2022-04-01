@@ -82,7 +82,8 @@ function addCTA() {
 	actionsText.innerHTML = 'Actions: ';
 
 	const remove = document.createElement('button');
-	remove.onclick = () => {
+	remove.onclick = (event) => {
+		event.preventDefault();
 		removeCTA(name);
 	};
 	remove.innerHTML = 'Remove';
