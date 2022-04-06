@@ -21,10 +21,10 @@ textarea {
 	padding: 5px;
 	border: 1px solid #ccc;
 	border-radius: 5px;
+	width: 80%;
 }
 
 textarea {
-	width: 400px;
 	height: 100px;
 }
 
@@ -59,7 +59,7 @@ select {
 	padding-right: 1rem;
 	padding-top: 5rem;
 	padding-bottom: 5rem;
-	max-width: 800px;
+	max-width: 80%;
 }
 
 .logo {
