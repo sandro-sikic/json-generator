@@ -95,8 +95,8 @@ function addCTA() {
 		website: 'Website',
 	});
 	const style = addSelect('Style: ', 'style', {
-		'VIEW01.V01': 'View 1v1',
-		'VIEW01.V02': 'View 1v2',
+		'VIEW01.V01': 'View01v01',
+		'VIEW01.V02': 'View01v02',
 	});
 
 	form.appendChild(id);
@@ -127,3 +127,66 @@ setInterval(() => {
 	registerOnChangeEvent('textarea');
 	registerOnChangeEvent('select');
 }, 1000);
+
+function copyMessage(type) {
+	const button = document.getElementById('copy');
+
+	if (type === 'success') {
+		button.innerText = 'Copied to clipboard!';
+		button.style = 'background-color: #4CAF50';
+	} else if (type === 'error') {
+		button.innerText = 'Failed to copy to clipboard';
+		button.style = 'background-color: #f44336';
+	} else {
+		throw 'Copy message type argument is unknown.';
+	}
+
+	setTimeout(() => {
+		button.innerText = 'Copy to clipboard';
+		button.style = '';
+	}, 3000);
+}
+
+function copyToClipboard() {
+	preview();
+
+	const text = document.getElementById('output').innerHTML;
+
+	const fallbackCopyTextToClipboard = (text) => {
+		const textArea = document.createElement('textarea');
+		textArea.value = text;
+
+		// Avoid scrolling to bottom
+		textArea.style.top = '0';
+		textArea.style.left = '0';
+		textArea.style.position = 'fixed';
+
+		document.body.appendChild(textArea);
+		textArea.focus();
+		textArea.select();
+
+		try {
+			document.execCommand('copy');
+			copyMessage('success');
+		} catch (error) {
+			console.error(error);
+			copyMessage('error');
+		}
+
+		document.body.removeChild(textArea);
+	};
+
+	if (!navigator.clipboard) {
+		fallbackCopyTextToClipboard(text);
+		return;
+	}
+	navigator.clipboard
+		.writeText(text)
+		.then(function () {
+			copyMessage('success');
+		})
+		.catch(function (error) {
+			console.error(error);
+			copyMessage('error');
+		});
+}
