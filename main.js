@@ -90,6 +90,7 @@ function addCTA() {
 
 	const id = addField('ID (Number): ', 'id');
 	const title = addField('Title: ', 'title');
+	const eventName = addField('Event name: ', 'event_name');
 	const data = addField('Data: ', 'data');
 	const type = addSelect('Type: ', 'type', {
 		website: 'Website',
@@ -101,6 +102,7 @@ function addCTA() {
 
 	form.appendChild(id);
 	form.appendChild(title);
+	form.appendChild(eventName);
 	form.appendChild(data);
 	form.appendChild(type);
 	form.appendChild(style);
