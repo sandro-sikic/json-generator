@@ -32,6 +32,24 @@
 
   <h1>Static card json generator</h1>
 
+
+  <button class="import" onclick="showImport()">
+    Import
+  </button>
+
+  <div class="collapsibleImport">
+    <fieldset class="import">
+      <legend>Import from JSON</legend>
+      <label>
+        <span> JSON </span>
+        <textarea id="import" type="text"></textarea>
+      </label>
+      <label for="import" id="import-error" class="error">
+        Invalid JSON format
+      </label>
+    </fieldset>
+  </div>
+
   <fieldset>
     <legend>Card content</legend>
     <form id="base">

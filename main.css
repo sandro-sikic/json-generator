@@ -101,3 +101,20 @@ h1 {
 	white-space: pre-wrap;
 	padding: 1rem;
 }
+
+.import {
+	margin-bottom: 1rem;
+}
+
+.collapsibleImport {
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+}
+
+.error {
+	display: none;
+	color: red;
+	padding-left: 160px;
+	margin-bottom: 0;
+}
