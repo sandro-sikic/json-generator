@@ -67296,7 +67296,7 @@
                 ]
             },
             {
-                "locator_id": "002",
+                "locator_id": "9900",
                 "latitude": 45.318497,
                 "longitude": 14.261176,
                 "postal_code": "98208",
@@ -67304,7 +67304,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-347-5435",
-                "name": "name:Sandro 01 - locator:002 - Everett Mall",
+                "name": "name:Sandro 01 - Everett Mall",
                 "street_address": "1402 SE Everett Mall Way, #100",
                 "schedule": [
                     {
@@ -67408,7 +67408,7 @@
                 ]
             },
             {
-                "locator_id": "003",
+                "locator_id": "9901",
                 "latitude": 45.319043,
                 "longitude": 14.261316,
                 "postal_code": "98409",
@@ -67416,7 +67416,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "253-473-0902",
-                "name": "name:Sandro 02 - locator:003 - Tacoma Mall",
+                "name": "name:Sandro 02 - Tacoma Mall",
                 "street_address": "4502 S Steele St, #420a",
                 "schedule": [
                     {
@@ -67520,7 +67520,7 @@
                 ]
             },
             {
-                "locator_id": "004",
+                "locator_id": "9902",
                 "latitude": 45.319496,
                 "longitude": 14.261723,
                 "postal_code": "98037",
@@ -67528,7 +67528,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-776-4323",
-                "name": "name:Sandro 03 - locator:004 - Alderwood Mall",
+                "name": "name:Sandro 03 - Alderwood Mall",
                 "street_address": "3000 184th Street SW, #860",
                 "schedule": [
                     {
@@ -67632,7 +67632,7 @@
                 ]
             },
             {
-                "locator_id": "005",
+                "locator_id": "9903",
                 "latitude": 45.319896,
                 "longitude": 14.262142,
                 "postal_code": "98004",
@@ -67640,7 +67640,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-451-0236",
-                "name": "name:Sandro 04 - locator:005 - Bellevue Square",
+                "name": "name:Sandro 04 - Bellevue Square",
                 "street_address": "244 Bellevue Square",
                 "schedule": [
                     {
@@ -67744,7 +67744,7 @@
                 ]
             },
             {
-                "locator_id": "006",
+                "locator_id": "9904",
                 "latitude": 45.320379,
                 "longitude": 14.262442,
                 "postal_code": "55435",
@@ -67752,7 +67752,7 @@
                 "country": "US",
                 "address_region": "MN",
                 "mobile_phone": "952-926-1574",
-                "name": "name:Sandro 05 - locator:006 - Southdale Center",
+                "name": "name:Sandro 05 - Southdale Center",
                 "street_address": "10 Southdale Center, Suite 2632",
                 "schedule": [
                     {
@@ -67856,7 +67856,7 @@
                 ]
             },
             {
-                "locator_id": "008",
+                "locator_id": "9905",
                 "latitude": 45.320801,
                 "longitude": 14.262807,
                 "postal_code": "98383",
@@ -67864,7 +67864,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-692-4262",
-                "name": "name:Sandro 06 - locator:008 - Kitsap Mall",
+                "name": "name:Sandro 06 - Kitsap Mall",
                 "street_address": "10315 Silverdale Way",
                 "schedule": [
                     {
@@ -67968,7 +67968,7 @@
                 ]
             },
             {
-                "locator_id": "009",
+                "locator_id": "9906",
                 "latitude": 45.321307,
                 "longitude": 14.262914,
                 "postal_code": "12866",
@@ -67976,7 +67976,7 @@
                 "country": "US",
                 "address_region": "NY",
                 "mobile_phone": "518-580-8945",
-                "name": "name:Sandro 07 - locator:009 - Wilton Mall",
+                "name": "name:Sandro 07 - Wilton Mall",
                 "street_address": "3065 Route 50, #Fc10",
                 "schedule": [
                     {
@@ -68080,7 +68080,7 @@
                 ]
             },
             {
-                "locator_id": "010",
+                "locator_id": "9907",
                 "latitude": 45.321774,
                 "longitude": 14.263139,
                 "postal_code": "95050",
@@ -68088,7 +68088,7 @@
                 "country": "US",
                 "address_region": "CA",
                 "mobile_phone": "408-243-0655",
-                "name": "name:Sandro 08 - locator:010 - Westfield Valley Fair",
+                "name": "name:Sandro 08 - Westfield Valley Fair",
                 "street_address": "2855 Stevens Creek Blvd, #1107",
                 "schedule": [
                     {
@@ -68192,7 +68192,7 @@
                 ]
             },
             {
-                "locator_id": "011",
+                "locator_id": "9908",
                 "latitude": 45.322204,
                 "longitude": 14.263322,
                 "postal_code": "98226",
@@ -68200,7 +68200,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-671-2562",
-                "name": "name:Sandro 09 - locator:011 - Bellis Fair Mall",
+                "name": "name:Sandro 09 - Bellis Fair Mall",
                 "street_address": "1 Bellis Fair Pkwy, #402",
                 "schedule": [
                     {
@@ -68304,7 +68304,7 @@
                 ]
             },
             {
-                "locator_id": "012",
+                "locator_id": "9909",
                 "latitude": 45.324234,
                 "longitude": 14.264609,
                 "postal_code": "99336",
@@ -68312,7 +68312,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-783-0854",
-                "name": "name:Sandro 10 - locator:012 - Columbia Center Mall",
+                "name": "name:Sandro 10 - Columbia Center Mall",
                 "street_address": "1321 N Columbia Ctr Blvd, #622",
                 "schedule": [
                     {
@@ -68416,7 +68416,7 @@
                 ]
             },
             {
-                "locator_id": "014",
+                "locator_id": "9910",
                 "latitude": 45.32581,
                 "longitude": 14.265618,
                 "postal_code": "98003",
@@ -68424,7 +68424,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "253-946-3347",
-                "name": "name:Sandro 11 - locator:014 - Commons at Federal Way",
+                "name": "name:Sandro 11 - Commons at Federal Way",
                 "street_address": "S 1940 Seatac Mall",
                 "schedule": [
                     {
@@ -68528,7 +68528,7 @@
                 ]
             },
             {
-                "locator_id": "015",
+                "locator_id": "9911",
                 "latitude": 45.326202,
                 "longitude": 14.269931,
                 "postal_code": "98903",
@@ -68536,7 +68536,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-575-6868",
-                "name": "name:Sandro 12 - locator:015 - Valley Mall",
+                "name": "name:Sandro 12 - Valley Mall",
                 "street_address": "2529 Main St, #144",
                 "schedule": [
                     {
@@ -68640,7 +68640,7 @@
                 ]
             },
             {
-                "locator_id": "016",
+                "locator_id": "9912",
                 "latitude": 45.842119,
                 "longitude": 15.975218,
                 "postal_code": "97086",
@@ -68648,7 +68648,7 @@
                 "country": "US",
                 "address_region": "OR",
                 "mobile_phone": "503-659-8996",
-                "name": "name:Store 1 - locator:016 - Clackamas Town Center",
+                "name": "name:Store 1 - Clackamas Town Center",
                 "street_address": "12000 SE 82nd Ave, #218503",
                 "schedule": [
                     {
@@ -68752,7 +68752,7 @@
                 ]
             },
             {
-                "locator_id": "017",
+                "locator_id": "9913",
                 "latitude": 45.8554,
                 "longitude": 15.973884,
                 "postal_code": "99207",
@@ -68760,7 +68760,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-484-1128",
-                "name": "name:Store 2 - locator:017 - NorthTown Mall",
+                "name": "name:Store 2 - NorthTown Mall",
                 "street_address": "N 4750 Division St, #156",
                 "schedule": [
                     {
@@ -68864,7 +68864,7 @@
                 ]
             },
             {
-                "locator_id": "018",
+                "locator_id": "9914",
                 "latitude": 45.8554,
                 "longitude": 15.740499,
                 "postal_code": "98502",
@@ -68872,7 +68872,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-753-9112",
-                "name": "name:Store 3 - locator:018 - Westfield Capital Mall",
+                "name": "name:Store 3 - Westfield Capital Mall",
                 "street_address": "625 Black Lake Blvd SW, #K11",
                 "schedule": [
                     {
