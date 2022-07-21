@@ -68977,14 +68977,14 @@
             },
             {
                 "locator_id": "9915",
-                "latitude": "45.771277",
-                "longitude": "15.943703",
+                "latitude": "-96.855607",
+                "longitude": "33.159285",
                 "postal_code": "98188",
                 "city": "Tukwila",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "206-241-9170",
-                "name": "name:Arena - Westfield Southcenter",
+                "name": "name:Kevin Z1 - Westfield Southcenter",
                 "street_address": "1008 Southcenter Mall",
                 "schedule": [
                     {
@@ -69089,14 +69089,14 @@
             },
             {
                 "locator_id": "9916",
-                "latitude": "45.777576",
-                "longitude": "15.970428",
+                "latitude": "-96.84966",
+                "longitude": "33.159285",
                 "postal_code": "98802",
                 "city": "East Wenatchee",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-884-4536",
-                "name": "name:Velesajam - Wenatchee Valley Mall",
+                "name": "name:Kevin Z2 - Wenatchee Valley Mall",
                 "street_address": "511 Valley Mall Pkwy",
                 "schedule": [
                     {
@@ -69187,118 +69187,6 @@
                         "day": "SAT",
                         "open": {
                             "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9917",
-                "latitude": "45.75626",
-                "longitude": "15.988266",
-                "postal_code": "98662",
-                "city": "Vancouver",
-                "country": "US",
-                "address_region": "WA",
-                "mobile_phone": "360-253-6796",
-                "name": "name:Supernova - Westfield Vancouver",
-                "street_address": "8700 NE Vancouver Mall Dr",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
