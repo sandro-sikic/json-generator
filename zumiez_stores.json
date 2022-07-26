@@ -69646,6 +69646,118 @@
                         "store_open": "true"
                     }
                 ]
+            },
+            {
+                "locator_id": "9921",
+                "latitude": "45.782787",
+                "longitude": "15.990123",
+                "postal_code": "53217",
+                "city": "Glendale",
+                "country": "US",
+                "address_region": "WI",
+                "mobile_phone": "414-963-8715",
+                "name": "name:Bundek - Bayshore Town Center",
+                "street_address": "5745 N Bayshore Dr, #102",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
             }
         ]
     }
