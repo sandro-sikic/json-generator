@@ -69310,6 +69310,342 @@
                         "store_open": "true"
                     }
                 ]
+            },
+            {
+                "locator_id": "9918",
+                "latitude": "45.771277",
+                "longitude": "15.943703",
+                "postal_code": "97401",
+                "city": "Eugene",
+                "country": "US",
+                "address_region": "OR",
+                "mobile_phone": "541-465-9159",
+                "name": "name:Arena - Valley River Center",
+                "street_address": "420 Valley River Ctr",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9919",
+                "latitude": "45.777576",
+                "longitude": "15.970428",
+                "postal_code": "97501",
+                "city": "Medford",
+                "country": "US",
+                "address_region": "OR",
+                "mobile_phone": "541-857-2959",
+                "name": "name:Velesajam - Rogue Valley Mall",
+                "street_address": "1600 Riverside Ave, #1033",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9920",
+                "latitude": "45.75626",
+                "longitude": "15.988266",
+                "postal_code": "98373",
+                "city": "Puyallup",
+                "country": "US",
+                "address_region": "WA",
+                "mobile_phone": "253-841-5675",
+                "name": "name:Supernova - South Hill Mall",
+                "street_address": "3500 South Meridian, #340",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
             }
         ]
     }
