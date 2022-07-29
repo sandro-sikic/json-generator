@@ -69758,6 +69758,790 @@
                         "store_open": "true"
                     }
                 ]
+            },
+            {
+                "locator_id": "9922",
+                "latitude": "45.850108",
+                "longitude": "15.974307",
+                "postal_code": "83704",
+                "city": "Boise",
+                "country": "US",
+                "address_region": "ID",
+                "mobile_phone": "208-376-9958",
+                "name": "name:Tin 1 - Boise Towne Square",
+                "street_address": "350 North Milwaukee, #2170",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9923",
+                "latitude": "43.752959",
+                "longitude": "15.745004",
+                "postal_code": "59102",
+                "city": "Billings",
+                "country": "US",
+                "address_region": "MT",
+                "mobile_phone": "406-652-8183",
+                "name": "name:Tin 2 - Rimrock Mall",
+                "street_address": "300 South 24th St West, #A12",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9924",
+                "latitude": "43.756285",
+                "longitude": "15.744204",
+                "postal_code": "94588",
+                "city": "Pleasanton",
+                "country": "US",
+                "address_region": "CA",
+                "mobile_phone": "925-463-8490",
+                "name": "name:Tin 3 - Stoneridge Mall",
+                "street_address": "2021 Stoneridge Mall, #A209",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "12",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9925",
+                "latitude": "43.757765",
+                "longitude": "15.740846",
+                "postal_code": "96003",
+                "city": "Redding",
+                "country": "US",
+                "address_region": "CA",
+                "mobile_phone": "530-223-2458",
+                "name": "name:Tin 4 - Mt Shasta Mall",
+                "street_address": "900 Dana Drive, #C037",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9926",
+                "latitude": "43.758615",
+                "longitude": "15.743123",
+                "postal_code": "84107",
+                "city": "Murray",
+                "country": "US",
+                "address_region": "UT",
+                "mobile_phone": "801-262-8284",
+                "name": "name:Tin 5 - Fashion Place Mall",
+                "street_address": "6191 South State, Suite #1275",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "12",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9927",
+                "latitude": "43.758617",
+                "longitude": "15.743123",
+                "postal_code": "97223",
+                "city": "Tigard",
+                "country": "US",
+                "address_region": "OR",
+                "mobile_phone": "503-968-1780",
+                "name": "name:Tin 6 - Washington Square",
+                "street_address": "9493 SW Washington Sq Rd, #A3",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9928",
+                "latitude": "43.757573",
+                "longitude": "15.747745",
+                "postal_code": "84119",
+                "city": "West Valley",
+                "country": "US",
+                "address_region": "UT",
+                "mobile_phone": "801-964-1582",
+                "name": "name:Tin 7 - Westfield Valley Fair",
+                "street_address": "3601 South 2700 West, Suite F100",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "12",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
             }
         ]
     }
