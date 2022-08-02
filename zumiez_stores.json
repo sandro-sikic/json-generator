@@ -67297,8 +67297,8 @@
             },
             {
                 "locator_id": "9900",
-                "latitude": "45.318497",
-                "longitude": "14.261176",
+                "latitude": "45.319384",
+                "longitude": "14.261668",
                 "postal_code": "98208",
                 "city": "Everett",
                 "country": "US",
@@ -67409,8 +67409,8 @@
             },
             {
                 "locator_id": "9901",
-                "latitude": "45.319043",
-                "longitude": "14.261316",
+                "latitude": "45.321336",
+                "longitude": "14.262941",
                 "postal_code": "98409",
                 "city": "Tacoma",
                 "country": "US",
@@ -67521,8 +67521,8 @@
             },
             {
                 "locator_id": "9902",
-                "latitude": "45.319496",
-                "longitude": "14.261723",
+                "latitude": "45.324892",
+                "longitude": "14.265404",
                 "postal_code": "98037",
                 "city": "Lynnwood",
                 "country": "US",
@@ -67633,14 +67633,14 @@
             },
             {
                 "locator_id": "9903",
-                "latitude": "45.319896",
-                "longitude": "14.262142",
+                "latitude": "45.842119",
+                "longitude": "15.975218",
                 "postal_code": "98004",
                 "city": "Bellevue",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-451-0236",
-                "name": "name:Sandro 04 - Bellevue Square",
+                "name": "name:Store 1 - Bellevue Square",
                 "street_address": "244 Bellevue Square",
                 "schedule": [
                     {
@@ -67745,14 +67745,14 @@
             },
             {
                 "locator_id": "9904",
-                "latitude": "45.320379",
-                "longitude": "14.262442",
+                "latitude": "45.8554",
+                "longitude": "15.973884",
                 "postal_code": "55435",
                 "city": "Edina",
                 "country": "US",
                 "address_region": "MN",
                 "mobile_phone": "952-926-1574",
-                "name": "name:Sandro 05 - Southdale Center",
+                "name": "name:Store 2 - Southdale Center",
                 "street_address": "10 Southdale Center, Suite 2632",
                 "schedule": [
                     {
@@ -67857,14 +67857,14 @@
             },
             {
                 "locator_id": "9905",
-                "latitude": "45.320801",
-                "longitude": "14.262807",
+                "latitude": "45.8554",
+                "longitude": "15.740499",
                 "postal_code": "98383",
                 "city": "Silverdale",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-692-4262",
-                "name": "name:Sandro 06 - Kitsap Mall",
+                "name": "name:Store 3 - Kitsap Mall",
                 "street_address": "10315 Silverdale Way",
                 "schedule": [
                     {
@@ -67969,14 +67969,14 @@
             },
             {
                 "locator_id": "9906",
-                "latitude": "45.321307",
-                "longitude": "14.262914",
+                "latitude": "33.159285",
+                "longitude": "-96.855607",
                 "postal_code": "12866",
                 "city": "Saratoga Springs",
                 "country": "US",
                 "address_region": "NY",
                 "mobile_phone": "518-580-8945",
-                "name": "name:Sandro 07 - Wilton Mall",
+                "name": "name:Kevin Z1 - Wilton Mall",
                 "street_address": "3065 Route 50, #Fc10",
                 "schedule": [
                     {
@@ -68081,14 +68081,14 @@
             },
             {
                 "locator_id": "9907",
-                "latitude": "45.321774",
-                "longitude": "14.263139",
+                "latitude": "33.159285",
+                "longitude": "-96.84966",
                 "postal_code": "95050",
                 "city": "San Jose",
                 "country": "US",
                 "address_region": "CA",
                 "mobile_phone": "408-243-0655",
-                "name": "name:Sandro 08 - Westfield Valley Fair",
+                "name": "name:Kevin Z2 - Westfield Valley Fair",
                 "street_address": "2855 Stevens Creek Blvd, #1107",
                 "schedule": [
                     {
@@ -68193,14 +68193,14 @@
             },
             {
                 "locator_id": "9908",
-                "latitude": "45.322204",
-                "longitude": "14.263322",
+                "latitude": "47.815087",
+                "longitude": "-122.286869",
                 "postal_code": "98226",
                 "city": "Bellingham",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-671-2562",
-                "name": "name:Sandro 09 - Bellis Fair Mall",
+                "name": "name:Zumiez Home Office - Bellis Fair Mall",
                 "street_address": "1 Bellis Fair Pkwy, #402",
                 "schedule": [
                     {
@@ -68305,14 +68305,14 @@
             },
             {
                 "locator_id": "9909",
-                "latitude": "45.324234",
-                "longitude": "14.264609",
+                "latitude": "45.771277",
+                "longitude": "15.943703",
                 "postal_code": "99336",
                 "city": "Kennewick",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-783-0854",
-                "name": "name:Sandro 10 - Columbia Center Mall",
+                "name": "name:Arena - Columbia Center Mall",
                 "street_address": "1321 N Columbia Ctr Blvd, #622",
                 "schedule": [
                     {
@@ -68417,14 +68417,14 @@
             },
             {
                 "locator_id": "9910",
-                "latitude": "45.32581",
-                "longitude": "14.265618",
+                "latitude": "45.777576",
+                "longitude": "15.970428",
                 "postal_code": "98003",
                 "city": "Federal Way",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "253-946-3347",
-                "name": "name:Sandro 11 - Commons at Federal Way",
+                "name": "name:Velesajam - Commons at Federal Way",
                 "street_address": "S 1940 Seatac Mall",
                 "schedule": [
                     {
@@ -68529,14 +68529,14 @@
             },
             {
                 "locator_id": "9911",
-                "latitude": "45.326202",
-                "longitude": "14.269931",
+                "latitude": "45.75626",
+                "longitude": "15.988266",
                 "postal_code": "98903",
                 "city": "Union Gap",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-575-6868",
-                "name": "name:Sandro 12 - Valley Mall",
+                "name": "name:Supernova - Valley Mall",
                 "street_address": "2529 Main St, #144",
                 "schedule": [
                     {
@@ -68641,14 +68641,14 @@
             },
             {
                 "locator_id": "9912",
-                "latitude": "45.842119",
-                "longitude": "15.975218",
+                "latitude": "45.782787",
+                "longitude": "15.990123",
                 "postal_code": "97086",
                 "city": "Portland",
                 "country": "US",
                 "address_region": "OR",
                 "mobile_phone": "503-659-8996",
-                "name": "name:Store 1 - Clackamas Town Center",
+                "name": "name:Bundek - Clackamas Town Center",
                 "street_address": "12000 SE 82nd Ave, #218503",
                 "schedule": [
                     {
@@ -68753,14 +68753,14 @@
             },
             {
                 "locator_id": "9913",
-                "latitude": "45.8554",
-                "longitude": "15.973884",
+                "latitude": "43.754122",
+                "longitude": "15.743978",
                 "postal_code": "99207",
                 "city": "Spokane",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-484-1128",
-                "name": "name:Store 2 - NorthTown Mall",
+                "name": "name:Tin 1 - NorthTown Mall",
                 "street_address": "N 4750 Division St, #156",
                 "schedule": [
                     {
@@ -68865,14 +68865,14 @@
             },
             {
                 "locator_id": "9914",
-                "latitude": "45.8554",
-                "longitude": "15.740499",
+                "latitude": "43.758459",
+                "longitude": "15.742385",
                 "postal_code": "98502",
                 "city": "Olympia",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "360-753-9112",
-                "name": "name:Store 3 - Westfield Capital Mall",
+                "name": "name:Tin 2 - Westfield Capital Mall",
                 "street_address": "625 Black Lake Blvd SW, #K11",
                 "schedule": [
                     {
@@ -68977,14 +68977,14 @@
             },
             {
                 "locator_id": "9915",
-                "latitude": "33.159285",
-                "longitude": "-96.855607",
+                "latitude": "43.752557",
+                "longitude": "15.752977",
                 "postal_code": "98188",
                 "city": "Tukwila",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "206-241-9170",
-                "name": "name:Kevin Z1 - Westfield Southcenter",
+                "name": "name:Tin 3 - Westfield Southcenter",
                 "street_address": "1008 Southcenter Mall",
                 "schedule": [
                     {
@@ -69089,14 +69089,14 @@
             },
             {
                 "locator_id": "9916",
-                "latitude": "33.159285",
-                "longitude": "-96.84966",
+                "latitude": "43.757096",
+                "longitude": "15.746284",
                 "postal_code": "98802",
                 "city": "East Wenatchee",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "509-884-4536",
-                "name": "name:Kevin Z2 - Wenatchee Valley Mall",
+                "name": "name:Tin 4 - Wenatchee Valley Mall",
                 "street_address": "511 Valley Mall Pkwy",
                 "schedule": [
                     {
@@ -69164,1014 +69164,6 @@
                         },
                         "close": {
                             "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9917",
-                "latitude": "47.815087",
-                "longitude": "-122.286869",
-                "postal_code": "98662",
-                "city": "Vancouver",
-                "country": "US",
-                "address_region": "WA",
-                "mobile_phone": "360-253-6796",
-                "name": "name:Zumiez Home Office - Westfield Vancouver",
-                "street_address": "8700 NE Vancouver Mall Dr",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9918",
-                "latitude": "45.771277",
-                "longitude": "15.943703",
-                "postal_code": "97401",
-                "city": "Eugene",
-                "country": "US",
-                "address_region": "OR",
-                "mobile_phone": "541-465-9159",
-                "name": "name:Arena - Valley River Center",
-                "street_address": "420 Valley River Ctr",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9919",
-                "latitude": "45.777576",
-                "longitude": "15.970428",
-                "postal_code": "97501",
-                "city": "Medford",
-                "country": "US",
-                "address_region": "OR",
-                "mobile_phone": "541-857-2959",
-                "name": "name:Velesajam - Rogue Valley Mall",
-                "street_address": "1600 Riverside Ave, #1033",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9920",
-                "latitude": "45.75626",
-                "longitude": "15.988266",
-                "postal_code": "98373",
-                "city": "Puyallup",
-                "country": "US",
-                "address_region": "WA",
-                "mobile_phone": "253-841-5675",
-                "name": "name:Supernova - South Hill Mall",
-                "street_address": "3500 South Meridian, #340",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9921",
-                "latitude": "45.782787",
-                "longitude": "15.990123",
-                "postal_code": "53217",
-                "city": "Glendale",
-                "country": "US",
-                "address_region": "WI",
-                "mobile_phone": "414-963-8715",
-                "name": "name:Bundek - Bayshore Town Center",
-                "street_address": "5745 N Bayshore Dr, #102",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9922",
-                "latitude": "43.754122",
-                "longitude": "15.743978",
-                "postal_code": "83704",
-                "city": "Boise",
-                "country": "US",
-                "address_region": "ID",
-                "mobile_phone": "208-376-9958",
-                "name": "name:Tin 1 - Boise Towne Square",
-                "street_address": "350 North Milwaukee, #2170",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9923",
-                "latitude": "43.758459",
-                "longitude": "15.742385",
-                "postal_code": "59102",
-                "city": "Billings",
-                "country": "US",
-                "address_region": "MT",
-                "mobile_phone": "406-652-8183",
-                "name": "name:Tin 2 - Rimrock Mall",
-                "street_address": "300 South 24th St West, #A12",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9924",
-                "latitude": "43.752557",
-                "longitude": "15.752977",
-                "postal_code": "94588",
-                "city": "Pleasanton",
-                "country": "US",
-                "address_region": "CA",
-                "mobile_phone": "925-463-8490",
-                "name": "name:Tin 3 - Stoneridge Mall",
-                "street_address": "2021 Stoneridge Mall, #A209",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "12",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    }
-                ]
-            },
-            {
-                "locator_id": "9925",
-                "latitude": "43.757096",
-                "longitude": "15.746284",
-                "postal_code": "96003",
-                "city": "Redding",
-                "country": "US",
-                "address_region": "CA",
-                "mobile_phone": "530-223-2458",
-                "name": "name:Tin 4 - Mt Shasta Mall",
-                "street_address": "900 Dana Drive, #C037",
-                "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "THU",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
