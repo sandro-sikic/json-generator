@@ -67297,14 +67297,14 @@
             },
             {
                 "locator_id": "9900",
-                "latitude": "45.319384",
-                "longitude": "14.261668",
+                "latitude": "45.320346",
+                "longitude": "14.262396",
                 "postal_code": "98208",
                 "city": "Everett",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-347-5435",
-                "name": "name:Sandro 01 - Everett Mall",
+                "name": "name:Sandro istok 75m - Everett Mall",
                 "street_address": "1402 SE Everett Mall Way, #100",
                 "schedule": [
                     {
@@ -67409,14 +67409,14 @@
             },
             {
                 "locator_id": "9901",
-                "latitude": "45.321336",
-                "longitude": "14.262941",
+                "latitude": "45.318691",
+                "longitude": "14.261158",
                 "postal_code": "98409",
                 "city": "Tacoma",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "253-473-0902",
-                "name": "name:Sandro 02 - Tacoma Mall",
+                "name": "name:Sandro zapad 75m - Tacoma Mall",
                 "street_address": "4502 S Steele St, #420a",
                 "schedule": [
                     {
@@ -67528,7 +67528,7 @@
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-776-4323",
-                "name": "name:Sandro 03 - Alderwood Mall",
+                "name": "name:Sandro zapad 600m - Alderwood Mall",
                 "street_address": "3000 184th Street SW, #860",
                 "schedule": [
                     {
