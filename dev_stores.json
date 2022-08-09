@@ -67297,14 +67297,14 @@
             },
             {
                 "locator_id": "9900",
-                "latitude": "45.320346",
-                "longitude": "14.262396",
+                "latitude": "45.322198",
+                "longitude": "14.26334",
                 "postal_code": "98208",
                 "city": "Everett",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "425-347-5435",
-                "name": "name:Sandro istok 75m - Everett Mall",
+                "name": "name:Sandro istok 300m - Everett Mall",
                 "street_address": "1402 SE Everett Mall Way, #100",
                 "schedule": [
                     {
@@ -67409,14 +67409,14 @@
             },
             {
                 "locator_id": "9901",
-                "latitude": "45.318691",
-                "longitude": "14.261158",
+                "latitude": "45.316596",
+                "longitude": "14.260299",
                 "postal_code": "98409",
                 "city": "Tacoma",
                 "country": "US",
                 "address_region": "WA",
                 "mobile_phone": "253-473-0902",
-                "name": "name:Sandro zapad 75m - Tacoma Mall",
+                "name": "name:Sandro zapad 300m - Tacoma Mall",
                 "street_address": "4502 S Steele St, #420a",
                 "schedule": [
                     {
@@ -67521,8 +67521,8 @@
             },
             {
                 "locator_id": "9902",
-                "latitude": "45.324892",
-                "longitude": "14.265404",
+                "latitude": "45.324751",
+                "longitude": "14.265401",
                 "postal_code": "98037",
                 "city": "Lynnwood",
                 "country": "US",
