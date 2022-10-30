@@ -4851,7 +4851,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -4865,7 +4865,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -4879,7 +4879,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -4893,7 +4893,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -4907,7 +4907,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -5373,7 +5373,7 @@
                 "address_region": "MN",
                 "mobile_phone": "952-814-9260",
                 "name": "Mall of America",
-                "street_address": "236 Northgarden",
+                "street_address": "236 North Garden",
                 "schedule": [
                     {
                         "day": "SUN",
@@ -6944,20 +6944,6 @@
                 "street_address": "572 Great Mall Drive",
                 "schedule": [
                     {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "MON",
                         "open": {
                             "hour": "11",
@@ -8071,7 +8057,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "5",
+                            "hour": "6",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -8094,12 +8080,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -8108,12 +8094,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -8122,12 +8108,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -8136,7 +8122,7 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -8150,7 +8136,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -9422,48 +9408,6 @@
                         "store_open": "true"
                     },
                     {
-                        "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "THU",
                         "open": {
                             "hour": "10",
@@ -9479,20 +9423,6 @@
                     },
                     {
                         "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
                         "open": {
                             "hour": "10",
                             "minute": "0",
@@ -11424,49 +11354,7 @@
                 "street_address": "7400 Las Vegas Blvd S, #206",
                 "schedule": [
                     {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
                         "open": {
                             "hour": "10",
                             "minute": "0",
@@ -11984,62 +11872,6 @@
                 "street_address": "1 Mills Circle, #204",
                 "schedule": [
                     {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "30",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "30",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "30",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "30",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "THU",
                         "open": {
                             "hour": "11",
@@ -12055,20 +11887,6 @@
                     },
                     {
                         "day": "FRI",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "30",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
                         "open": {
                             "hour": "10",
                             "minute": "0",
@@ -14462,48 +14280,6 @@
                         "store_open": "true"
                     },
                     {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "THU",
                         "open": {
                             "hour": "11",
@@ -14519,20 +14295,6 @@
                     },
                     {
                         "day": "FRI",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "9",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "SAT",
                         "open": {
                             "hour": "11",
                             "minute": "0",
@@ -16229,7 +15991,7 @@
             },
             {
                 "locator_id": "163",
-                "latitude": "32.678210",
+                "latitude": "32.678220",
                 "longitude": "-97.398590",
                 "postal_code": "76132",
                 "city": "Fort Worth",
@@ -17138,12 +16900,12 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
-                            "hour": "6",
+                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -17166,12 +16928,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -17180,12 +16942,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -17194,12 +16956,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -17759,7 +17521,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "6",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -18357,8 +18119,8 @@
             },
             {
                 "locator_id": "183",
-                "latitude": "39.822849",
-                "longitude": "-75.543953",
+                "latitude": "39.822470",
+                "longitude": "-75.544540",
                 "postal_code": "19803",
                 "city": "Wilmington",
                 "country": "US",
@@ -18706,9 +18468,9 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "6",
@@ -20933,7 +20695,7 @@
             },
             {
                 "locator_id": "212",
-                "latitude": "40.235670",
+                "latitude": "40.235680",
                 "longitude": "-75.244720",
                 "postal_code": "19454",
                 "city": "North Wales",
@@ -21926,7 +21688,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "10",
+                            "hour": "11",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -27895,7 +27657,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -27909,7 +27671,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -27923,7 +27685,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -27937,7 +27699,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -28562,7 +28324,7 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -28576,12 +28338,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "6",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -28590,7 +28352,7 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -28604,7 +28366,7 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -28618,7 +28380,7 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -28632,7 +28394,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -30690,7 +30452,7 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -30704,7 +30466,7 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -30718,7 +30480,7 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -30732,7 +30494,7 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -31802,48 +31564,6 @@
                         },
                         "close": {
                             "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "MON",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
-                        "open": {
-                            "hour": "11",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -34610,9 +34330,9 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "12",
+                            "hour": "10",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "7",
@@ -34624,9 +34344,9 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "12",
+                            "hour": "10",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "7",
@@ -34638,9 +34358,9 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "12",
+                            "hour": "10",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "7",
@@ -34705,20 +34425,6 @@
                 "name": "The Shoppes at Buckland",
                 "street_address": "194 Buckland Hills Dr",
                 "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "6",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
                     {
                         "day": "MON",
                         "open": {
@@ -34848,7 +34554,7 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -34862,7 +34568,7 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -34876,7 +34582,7 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -37607,8 +37313,8 @@
             },
             {
                 "locator_id": "388",
-                "latitude": "40.586415",
-                "longitude": "-74.620166",
+                "latitude": "40.586460",
+                "longitude": "-75.620180",
                 "postal_code": "08807",
                 "city": "Bridgewater",
                 "country": "US",
@@ -39287,8 +38993,8 @@
             },
             {
                 "locator_id": "399",
-                "latitude": "42.701607",
-                "longitude": "-71.437011",
+                "latitude": "42.701250",
+                "longitude": "-71.437010",
                 "postal_code": "03060",
                 "city": "Nashua",
                 "country": "US",
@@ -39623,7 +39329,7 @@
             },
             {
                 "locator_id": "404",
-                "latitude": "39.361020",
+                "latitude": "39.361050",
                 "longitude": "-74.436450",
                 "postal_code": "08401",
                 "city": "Atlantic City",
@@ -39669,7 +39375,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -39683,7 +39389,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -39697,7 +39403,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -39711,7 +39417,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -39725,7 +39431,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -41498,7 +41204,7 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -41512,7 +41218,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -46119,8 +45825,8 @@
             },
             {
                 "locator_id": "461",
-                "latitude": "43.458912",
-                "longitude": "-71.559495",
+                "latitude": "43.459500",
+                "longitude": "-71.559790",
                 "postal_code": "03276",
                 "city": "Tilton",
                 "country": "US",
@@ -46145,34 +45851,6 @@
                     },
                     {
                         "day": "MON",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "TUE",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "8",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
-                        "day": "WED",
                         "open": {
                             "hour": "10",
                             "minute": "0",
@@ -50276,7 +49954,7 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "10",
+                            "hour": "11",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -50402,12 +50080,12 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50416,12 +50094,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50430,12 +50108,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50444,12 +50122,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50458,12 +50136,12 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50472,12 +50150,12 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50724,9 +50402,9 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "6",
@@ -50752,12 +50430,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50766,12 +50444,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -50780,12 +50458,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -51172,9 +50850,9 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "6",
@@ -51205,7 +50883,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -51219,7 +50897,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -51233,7 +50911,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -51261,7 +50939,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "9",
+                            "hour": "10",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -52839,8 +52517,8 @@
             },
             {
                 "locator_id": "541",
-                "latitude": "41.053075",
-                "longitude": "-73.537155",
+                "latitude": "41.052720",
+                "longitude": "-73.536910",
                 "postal_code": "06901",
                 "city": "Stamford",
                 "country": "US",
@@ -53641,7 +53319,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -54631,8 +54309,8 @@
             },
             {
                 "locator_id": "554",
-                "latitude": "30.624839",
-                "longitude": "-96.303661",
+                "latitude": "30.624850",
+                "longitude": "-93.303660",
                 "postal_code": "77840",
                 "city": "College Station",
                 "country": "US",
@@ -55204,9 +54882,9 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
                             "hour": "6",
@@ -55218,7 +54896,7 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55232,7 +54910,7 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55246,7 +54924,7 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55260,7 +54938,7 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55568,7 +55246,7 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55582,7 +55260,7 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55596,7 +55274,7 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55610,7 +55288,7 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -55624,7 +55302,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -56087,8 +55765,8 @@
             },
             {
                 "locator_id": "567",
-                "latitude": "18.439210",
-                "longitude": "-66.539470",
+                "latitude": "18.438640",
+                "longitude": "-66.539550",
                 "postal_code": "00617",
                 "city": "Barceloneta",
                 "country": "US",
@@ -56772,12 +56450,12 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
-                            "hour": "6",
+                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -56800,12 +56478,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -56814,12 +56492,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -56828,12 +56506,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -58116,12 +57794,12 @@
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "12",
+                            "hour": "11",
                             "minute": "0",
-                            "format": "PM"
+                            "format": "AM"
                         },
                         "close": {
-                            "hour": "6",
+                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -58149,7 +57827,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -58163,7 +57841,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -58177,7 +57855,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -59488,12 +59166,12 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -59502,12 +59180,12 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -59516,12 +59194,12 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "11",
+                            "hour": "10",
                             "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -61575,8 +61253,8 @@
             },
             {
                 "locator_id": "667",
-                "latitude": "37.986845",
-                "longitude": "-84.529067",
+                "latitude": "37.986860",
+                "longitude": "-84.529070",
                 "postal_code": "40503",
                 "city": "Lexington",
                 "country": "US",
@@ -63450,7 +63128,7 @@
                     {
                         "day": "FRI",
                         "open": {
-                            "hour": "10",
+                            "hour": "11",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -63464,7 +63142,7 @@
                     {
                         "day": "SAT",
                         "open": {
-                            "hour": "10",
+                            "hour": "11",
                             "minute": "0",
                             "format": "AM"
                         },
@@ -63479,8 +63157,8 @@
             },
             {
                 "locator_id": "686",
-                "latitude": "40.469020",
-                "longitude": "-78.412130",
+                "latitude": "40.469050",
+                "longitude": "-78.412120",
                 "postal_code": "16602",
                 "city": "Altoona",
                 "country": "US",
@@ -63489,20 +63167,6 @@
                 "name": "Logan Valley Mall",
                 "street_address": "5580 Goods Lane, Suite 1101",
                 "schedule": [
-                    {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "12",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "close": {
-                            "hour": "5",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
                     {
                         "day": "MON",
                         "open": {
@@ -63861,7 +63525,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -63875,7 +63539,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -63889,7 +63553,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "8",
+                            "hour": "9",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -65033,8 +64697,8 @@
             },
             {
                 "locator_id": "701",
-                "latitude": "33.924489",
-                "longitude": "-84.340297",
+                "latitude": "33.924140",
+                "longitude": "-84.340740",
                 "postal_code": "30346",
                 "city": "Atlanta",
                 "country": "US",
@@ -66823,8 +66487,8 @@
             },
             {
                 "locator_id": "716",
-                "latitude": "33.846348",
-                "longitude": "-84.364448",
+                "latitude": "33.845930",
+                "longitude": "-84.361290",
                 "postal_code": "30326",
                 "city": "Atlanta",
                 "country": "US",
@@ -66841,7 +66505,7 @@
                             "format": "PM"
                         },
                         "close": {
-                            "hour": "6",
+                            "hour": "7",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -66869,7 +66533,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -66883,7 +66547,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -66897,7 +66561,7 @@
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "7",
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
@@ -67380,6 +67044,118 @@
                 ]
             },
             {
+                "locator_id": "724",
+                "latitude": "25.690225",
+                "longitude": "-80.313599",
+                "postal_code": "33156",
+                "city": "Miami",
+                "country": "US",
+                "address_region": "FL",
+                "mobile_phone": "786-685-3222",
+                "name": "Dadeland Mall",
+                "street_address": "7535 N Kendall Dr, #3040",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "7",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "10",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
                 "locator_id": "725",
                 "latitude": "41.031902",
                 "longitude": "-73.760767",
@@ -67728,20 +67504,6 @@
                 "street_address": "4840 Tanger Outlet Blvd, #1072",
                 "schedule": [
                     {
-                        "day": "SUN",
-                        "open": {
-                            "hour": "10",
-                            "minute": "0",
-                            "format": "AM"
-                        },
-                        "close": {
-                            "hour": "7",
-                            "minute": "0",
-                            "format": "PM"
-                        },
-                        "store_open": "true"
-                    },
-                    {
                         "day": "MON",
                         "open": {
                             "hour": "10",
@@ -67829,8 +67591,8 @@
             },
             {
                 "locator_id": "729",
-                "latitude": "40.764819",
-                "longitude": "-73.304381",
+                "latitude": "40.764040",
+                "longitude": "-73.306200",
                 "postal_code": "11729",
                 "city": "Deer Park",
                 "country": "US",
@@ -68053,7 +67815,7 @@
             },
             {
                 "locator_id": "731",
-                "latitude": "33.784030",
+                "latitude": "33.784040",
                 "longitude": "-78.773680",
                 "postal_code": "29572",
                 "city": "Myrtle Beach",
@@ -70300,7 +70062,7 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-347-5435",
-                "name": "Sch Sun",
+                "name": "updated_stores",
                 "street_address": "1402 SE Everett Mall Way, #100",
                 "schedule": [
                     {
@@ -70412,19 +70174,19 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "253-473-0902",
-                "name": "Sch Mon",
+                "name": "Sch Sun",
                 "street_address": "4502 S Steele St, #420a",
                 "schedule": [
                     {
                         "day": "SUN",
                         "open": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70432,13 +70194,13 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70524,7 +70286,7 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-776-4323",
-                "name": "Sch Tue",
+                "name": "Sch Mon",
                 "street_address": "3000 184th Street SW, #860",
                 "schedule": [
                     {
@@ -70544,13 +70306,13 @@
                     {
                         "day": "MON",
                         "open": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70558,13 +70320,13 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70636,7 +70398,7 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-451-0236",
-                "name": "Sch Wed",
+                "name": "Sch Tue",
                 "street_address": "244 Bellevue Square",
                 "schedule": [
                     {
@@ -70670,13 +70432,13 @@
                     {
                         "day": "TUE",
                         "open": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70684,13 +70446,13 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70748,7 +70510,7 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "952-926-1574",
-                "name": "Sch Thu",
+                "name": "Sch Wed",
                 "street_address": "10 Southdale Center, Suite 2632",
                 "schedule": [
                     {
@@ -70796,13 +70558,13 @@
                     {
                         "day": "WED",
                         "open": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70810,13 +70572,13 @@
                     {
                         "day": "THU",
                         "open": {
-                            "hour": "3",
-                            "minute": "0",
+                            "hour": "2",
+                            "minute": "59",
                             "format": "AM"
                         },
                         "close": {
-                            "hour": "2",
-                            "minute": "59",
+                            "hour": "3",
+                            "minute": "0",
                             "format": "AM"
                         },
                         "store_open": "true"
@@ -70860,7 +70622,7 @@
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "360-692-4262",
-                "name": "Sch Fri",
+                "name": "Sch Thu",
                 "street_address": "10315 Silverdale Way",
                 "schedule": [
                     {
@@ -70922,6 +70684,118 @@
                     {
                         "day": "THU",
                         "open": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "99906",
+                "latitude": "45.777576",
+                "longitude": "15.970428",
+                "postal_code": "12866",
+                "city": "Saratoga Springs",
+                "country": "US",
+                "address_region": ".test_store_cro",
+                "mobile_phone": "518-580-8945",
+                "name": "Sch Fri",
+                "street_address": "3065 Route 50, #Fc10",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "2",
+                            "minute": "59",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "3",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
                             "hour": "2",
                             "minute": "59",
                             "format": "AM"
@@ -70964,16 +70838,16 @@
                 ]
             },
             {
-                "locator_id": "99906",
+                "locator_id": "99907",
                 "latitude": "45.777576",
                 "longitude": "15.970428",
-                "postal_code": "12866",
-                "city": "Saratoga Springs",
+                "postal_code": "95050",
+                "city": "San Jose",
                 "country": "US",
                 "address_region": ".test_store_cro",
-                "mobile_phone": "518-580-8945",
+                "mobile_phone": "408-243-0655",
                 "name": "Sch Sat",
-                "street_address": "3065 Route 50, #Fc10",
+                "street_address": "2855 Stevens Creek Blvd, #1107",
                 "schedule": [
                     {
                         "day": "SUN",
