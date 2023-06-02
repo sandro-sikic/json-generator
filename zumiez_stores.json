@@ -67983,14 +67983,14 @@
             },
             {
                 "locator_id": "9900",
-                "latitude": "45.316596",
-                "longitude": "14.260299",
+                "latitude": "45.322198",
+                "longitude": "14.26334",
                 "postal_code": "98208",
                 "city": "Everett",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-347-5435",
-                "name": "Sandro zapad 300m - Everett Mall",
+                "name": "Sandro jug 300m - Everett Mall",
                 "street_address": "1402 SE Everett Mall Way, #100",
                 "schedule": [
                     {
@@ -68095,14 +68095,14 @@
             },
             {
                 "locator_id": "9901",
-                "latitude": "45.324751",
-                "longitude": "14.265401",
+                "latitude": "45.316596",
+                "longitude": "14.260299",
                 "postal_code": "98409",
                 "city": "Tacoma",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "253-473-0902",
-                "name": "Sandro zapad 600m - Tacoma Mall",
+                "name": "Sandro sjever 300m - Tacoma Mall",
                 "street_address": "4502 S Steele St, #420a",
                 "schedule": [
                     {
@@ -68207,14 +68207,14 @@
             },
             {
                 "locator_id": "9902",
-                "latitude": "45.842119",
-                "longitude": "15.975218",
+                "latitude": "45.324751",
+                "longitude": "14.265401",
                 "postal_code": "98037",
                 "city": "Lynnwood",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-776-4323",
-                "name": "Store 1 - Alderwood Mall",
+                "name": "Sandro sjever 600m - Alderwood Mall",
                 "street_address": "3000 184th Street SW, #860",
                 "schedule": [
                     {
@@ -68319,14 +68319,14 @@
             },
             {
                 "locator_id": "9903",
-                "latitude": "45.8554",
-                "longitude": "15.973884",
+                "latitude": "45.842119",
+                "longitude": "15.975218",
                 "postal_code": "98004",
                 "city": "Bellevue",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "425-451-0236",
-                "name": "Store 2 - Bellevue Square",
+                "name": "Store 1 - Bellevue Square",
                 "street_address": "244 Bellevue Square",
                 "schedule": [
                     {
@@ -68432,13 +68432,13 @@
             {
                 "locator_id": "9904",
                 "latitude": "45.8554",
-                "longitude": "15.740499",
+                "longitude": "15.973884",
                 "postal_code": "55435",
                 "city": "Edina",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "952-926-1574",
-                "name": "Store 3 - Southdale Center",
+                "name": "Store 2 - Southdale Center",
                 "street_address": "10 Southdale Center, Suite 2632",
                 "schedule": [
                     {
@@ -68543,14 +68543,14 @@
             },
             {
                 "locator_id": "9905",
-                "latitude": "33.159285",
-                "longitude": "-96.855607",
+                "latitude": "45.8554",
+                "longitude": "15.740499",
                 "postal_code": "98383",
                 "city": "Silverdale",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "360-692-4262",
-                "name": "Kevin Z1 - Kitsap Mall",
+                "name": "Store 3 - Kitsap Mall",
                 "street_address": "10315 Silverdale Way",
                 "schedule": [
                     {
@@ -68656,13 +68656,13 @@
             {
                 "locator_id": "9906",
                 "latitude": "33.159285",
-                "longitude": "-96.84966",
+                "longitude": "-96.855607",
                 "postal_code": "12866",
                 "city": "Saratoga Springs",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "518-580-8945",
-                "name": "Kevin Z2 - Wilton Mall",
+                "name": "Kevin Z1 - Wilton Mall",
                 "street_address": "3065 Route 50, #Fc10",
                 "schedule": [
                     {
@@ -68767,14 +68767,14 @@
             },
             {
                 "locator_id": "9907",
-                "latitude": "47.815087",
-                "longitude": "-122.286869",
+                "latitude": "33.159285",
+                "longitude": "-96.84966",
                 "postal_code": "95050",
                 "city": "San Jose",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "408-243-0655",
-                "name": "Zumiez Home Office - Westfield Valley Fair",
+                "name": "Kevin Z2 - Westfield Valley Fair",
                 "street_address": "2855 Stevens Creek Blvd, #1107",
                 "schedule": [
                     {
@@ -68879,14 +68879,14 @@
             },
             {
                 "locator_id": "9908",
-                "latitude": "45.771277",
-                "longitude": "15.943703",
+                "latitude": "47.815087",
+                "longitude": "-122.286869",
                 "postal_code": "98226",
                 "city": "Bellingham",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "360-671-2562",
-                "name": "Arena - Bellis Fair Mall",
+                "name": "Zumiez Home Office - Bellis Fair Mall",
                 "street_address": "1 Bellis Fair Pkwy, #402",
                 "schedule": [
                     {
@@ -68991,14 +68991,14 @@
             },
             {
                 "locator_id": "9909",
-                "latitude": "45.777576",
-                "longitude": "15.970428",
+                "latitude": "45.771277",
+                "longitude": "15.943703",
                 "postal_code": "99336",
                 "city": "Kennewick",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "509-783-0854",
-                "name": "Velesajam - Columbia Center Mall",
+                "name": "Arena - Columbia Center Mall",
                 "street_address": "1321 N Columbia Ctr Blvd, #622",
                 "schedule": [
                     {
@@ -69103,14 +69103,14 @@
             },
             {
                 "locator_id": "9910",
-                "latitude": "45.75626",
-                "longitude": "15.988266",
+                "latitude": "45.777576",
+                "longitude": "15.970428",
                 "postal_code": "98003",
                 "city": "Federal Way",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "253-946-3347",
-                "name": "Supernova - Commons at Federal Way",
+                "name": "Velesajam - Commons at Federal Way",
                 "street_address": "S 1940 Seatac Mall",
                 "schedule": [
                     {
@@ -69215,14 +69215,14 @@
             },
             {
                 "locator_id": "9911",
-                "latitude": "45.782787",
-                "longitude": "15.990123",
+                "latitude": "45.75626",
+                "longitude": "15.988266",
                 "postal_code": "98903",
                 "city": "Union Gap",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "509-575-6868",
-                "name": "Bundek - Valley Mall",
+                "name": "Supernova - Valley Mall",
                 "street_address": "2529 Main St, #144",
                 "schedule": [
                     {
@@ -69327,14 +69327,14 @@
             },
             {
                 "locator_id": "9912",
-                "latitude": "43.754122",
-                "longitude": "15.743978",
+                "latitude": "45.782787",
+                "longitude": "15.990123",
                 "postal_code": "97086",
                 "city": "Portland",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "503-659-8996",
-                "name": "Tin 1 - Clackamas Town Center",
+                "name": "Bundek - Clackamas Town Center",
                 "street_address": "12000 SE 82nd Ave, #218503",
                 "schedule": [
                     {
@@ -69439,14 +69439,14 @@
             },
             {
                 "locator_id": "9913",
-                "latitude": "43.758459",
-                "longitude": "15.742385",
+                "latitude": "43.754122",
+                "longitude": "15.743978",
                 "postal_code": "99207",
                 "city": "Spokane",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "509-484-1128",
-                "name": "Tin 2 - NorthTown Mall",
+                "name": "Tin 1 - NorthTown Mall",
                 "street_address": "N 4750 Division St, #156",
                 "schedule": [
                     {
@@ -69551,14 +69551,14 @@
             },
             {
                 "locator_id": "9914",
-                "latitude": "43.752557",
-                "longitude": "15.752977",
+                "latitude": "43.758459",
+                "longitude": "15.742385",
                 "postal_code": "98502",
                 "city": "Olympia",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "360-753-9112",
-                "name": "Tin 3 - Westfield Capital Mall",
+                "name": "Tin 2 - Westfield Capital Mall",
                 "street_address": "625 Black Lake Blvd SW, #K11",
                 "schedule": [
                     {
@@ -69663,14 +69663,14 @@
             },
             {
                 "locator_id": "9915",
-                "latitude": "43.757096",
-                "longitude": "15.746284",
+                "latitude": "43.752557",
+                "longitude": "15.752977",
                 "postal_code": "98188",
                 "city": "Tukwila",
                 "country": "US",
                 "address_region": ".test_store_cro",
                 "mobile_phone": "206-241-9170",
-                "name": "Tin 4 - Westfield Southcenter",
+                "name": "Tin 3 - Westfield Southcenter",
                 "street_address": "2646 Southcenter Mall",
                 "schedule": [
                     {
@@ -69766,6 +69766,118 @@
                         },
                         "close": {
                             "hour": "9",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    }
+                ]
+            },
+            {
+                "locator_id": "9916",
+                "latitude": "43.757096",
+                "longitude": "15.746284",
+                "postal_code": "98802",
+                "city": "East Wenatchee",
+                "country": "US",
+                "address_region": ".test_store_cro",
+                "mobile_phone": "509-884-4536",
+                "name": "Tin 4 - Wenatchee Valley Mall",
+                "street_address": "511 Valley Mall Pkwy",
+                "schedule": [
+                    {
+                        "day": "SUN",
+                        "open": {
+                            "hour": "12",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "close": {
+                            "hour": "6",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "MON",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "TUE",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "WED",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "THU",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "FRI",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
+                            "minute": "0",
+                            "format": "PM"
+                        },
+                        "store_open": "true"
+                    },
+                    {
+                        "day": "SAT",
+                        "open": {
+                            "hour": "11",
+                            "minute": "0",
+                            "format": "AM"
+                        },
+                        "close": {
+                            "hour": "8",
                             "minute": "0",
                             "format": "PM"
                         },
