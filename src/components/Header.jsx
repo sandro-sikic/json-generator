@@ -2,8 +2,9 @@ import { A, useLocation } from 'solid-start';
 import { Zumiez } from '~/icons';
 export default function Header() {
 	const location = useLocation();
+
 	const active = (path) =>
-		path == location.pathname
+		location.pathname.includes(path)
 			? 'border-gray-600'
 			: 'border-transparent hover:border-gray-600';
 
