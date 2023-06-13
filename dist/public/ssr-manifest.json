@@ -1,9 +1,9 @@
 {
   "\u0000C:/Users/Main/Documents/Developer/zumiez/zumiez-json-generator/node_modules/file-saver/dist/FileSaver.min.js?commonjs-module": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
   ],
@@ -24,7 +24,7 @@
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
   "node_modules/file-saver/dist/FileSaver.min.js": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "node_modules/solid-js/dist/solid.js": [
   ],
@@ -49,48 +49,48 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/components/Button.jsx": [
-    "/assets/Button-23785f8b.js"
+    "/zumiez-json-generator/assets/Button-7244f749.js"
   ],
   "src/components/Fieldset.jsx": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/components/Header.jsx": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/components/Input.jsx": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/components/Pre.jsx": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/components/Select.jsx": [
-    "/assets/static-555cb2be.js"
+    "/zumiez-json-generator/assets/static-5c6f7b0f.js"
   ],
   "src/components/TextArea.jsx": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/entry-client.jsx": [
   ],
   "src/icons/zumiez.jsx": [
-    "/assets/Button-23785f8b.js"
+    "/zumiez-json-generator/assets/Button-7244f749.js"
   ],
   "src/plugins/common.js": [
-    "/assets/common-0a03cb52.js"
+    "/zumiez-json-generator/assets/common-63c0f0f2.js"
   ],
   "src/root.css": [
   ],
   "src/root.jsx": [
   ],
   "src/routes/[...404].jsx": [
-    "/assets/_...404_-35c23c2d.js"
+    "/zumiez-json-generator/assets/_...404_-cd1ddc05.js"
   ],
   "src/routes/events.jsx": [
-    "/assets/events-55667de1.js"
+    "/zumiez-json-generator/assets/events-29ce73f4.js"
   ],
   "src/routes/index.jsx": [
-    "/assets/index-11482414.js"
+    "/zumiez-json-generator/assets/index-749c77dc.js"
   ],
   "src/routes/static.jsx": [
-    "/assets/static-555cb2be.js"
+    "/zumiez-json-generator/assets/static-5c6f7b0f.js"
   ]
 }
