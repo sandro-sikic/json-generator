@@ -289,6 +289,7 @@ export default () => {
 										}
 									}}
 									className={isInvalid() ? 'bg-red-100' : ''}
+									placeholder="Paste JSON here"
 								/>
 							)}
 						</Fieldset>

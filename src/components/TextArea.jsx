@@ -7,6 +7,7 @@ export default function TextArea(props) {
 				type="text"
 				value={props.value}
 				onInput={(event) => props.onInput(event.target.value)}
+				placeholder={props.placeholder}
 			/>
 		</label>
 	);
