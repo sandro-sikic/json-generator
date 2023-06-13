@@ -1,0 +1,70 @@
+{
+  ".solid/index.css": {
+    "file": "assets/index-96afdfc8.css",
+    "src": ".solid/index.css"
+  },
+  ".solid/index.html": {
+    "css": [
+      "assets/index-96afdfc8.css"
+    ],
+    "dynamicImports": [
+      "src/routes/events.jsx",
+      "src/routes/index.jsx",
+      "src/routes/static.jsx",
+      "src/routes/[...404].jsx"
+    ],
+    "file": "assets/index-d927c143.js",
+    "isEntry": true,
+    "src": ".solid/index.html"
+  },
+  "_Button-23785f8b.js": {
+    "file": "assets/Button-23785f8b.js",
+    "imports": [
+      ".solid/index.html"
+    ]
+  },
+  "_common-0a03cb52.js": {
+    "file": "assets/common-0a03cb52.js",
+    "imports": [
+      ".solid/index.html",
+      "_Button-23785f8b.js"
+    ]
+  },
+  "src/routes/[...404].jsx": {
+    "file": "assets/_...404_-35c23c2d.js",
+    "imports": [
+      ".solid/index.html"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/[...404].jsx"
+  },
+  "src/routes/events.jsx": {
+    "file": "assets/events-55667de1.js",
+    "imports": [
+      ".solid/index.html",
+      "_common-0a03cb52.js",
+      "_Button-23785f8b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/events.jsx"
+  },
+  "src/routes/index.jsx": {
+    "file": "assets/index-11482414.js",
+    "imports": [
+      ".solid/index.html",
+      "_Button-23785f8b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.jsx"
+  },
+  "src/routes/static.jsx": {
+    "file": "assets/static-555cb2be.js",
+    "imports": [
+      ".solid/index.html",
+      "_Button-23785f8b.js",
+      "_common-0a03cb52.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/static.jsx"
+  }
+}
