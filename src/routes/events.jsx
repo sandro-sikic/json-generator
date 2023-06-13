@@ -71,7 +71,7 @@ export default () => {
 					<div className="flex-grow w-1/2">
 						<For each={events().event_locations}>
 							{(event, index) => (
-								<Fieldset legend="Event" className="mt-5">
+								<Fieldset legend="Event" className="mb-5">
 									<div className="flex gap-5">
 										<div className="flex-grow">
 											<h2 className="text-xl text-bold">
