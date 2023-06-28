@@ -1,37 +1,37 @@
 {
   ".solid/index.css": {
-    "file": "assets/index-96afdfc8.css",
+    "file": "assets/index-ea2f866d.css",
     "src": ".solid/index.css"
   },
   ".solid/index.html": {
     "css": [
-      "assets/index-96afdfc8.css"
+      "assets/index-ea2f866d.css"
     ],
     "dynamicImports": [
+      "src/routes/[...404].jsx",
       "src/routes/events.jsx",
       "src/routes/index.jsx",
-      "src/routes/static.jsx",
-      "src/routes/[...404].jsx"
+      "src/routes/static.jsx"
     ],
-    "file": "assets/index-8b277b6f.js",
+    "file": "assets/index-299798ac.js",
     "isEntry": true,
     "src": ".solid/index.html"
   },
-  "_Button-65740d7f.js": {
-    "file": "assets/Button-65740d7f.js",
+  "_Button-77de0e76.js": {
+    "file": "assets/Button-77de0e76.js",
     "imports": [
       ".solid/index.html"
     ]
   },
-  "_common-821be2a9.js": {
-    "file": "assets/common-821be2a9.js",
+  "_common-6b15b910.js": {
+    "file": "assets/common-6b15b910.js",
     "imports": [
       ".solid/index.html",
-      "_Button-65740d7f.js"
+      "_Button-77de0e76.js"
     ]
   },
   "src/routes/[...404].jsx": {
-    "file": "assets/_...404_-f21c5fa2.js",
+    "file": "assets/_...404_-a19ac2ff.js",
     "imports": [
       ".solid/index.html"
     ],
@@ -39,30 +39,30 @@
     "src": "src/routes/[...404].jsx"
   },
   "src/routes/events.jsx": {
-    "file": "assets/events-b29c5487.js",
+    "file": "assets/events-22bc9db6.js",
     "imports": [
       ".solid/index.html",
-      "_common-821be2a9.js",
-      "_Button-65740d7f.js"
+      "_common-6b15b910.js",
+      "_Button-77de0e76.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/events.jsx"
   },
   "src/routes/index.jsx": {
-    "file": "assets/index-d28939a9.js",
+    "file": "assets/index-ddcf0b93.js",
     "imports": [
       ".solid/index.html",
-      "_Button-65740d7f.js"
+      "_Button-77de0e76.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/index.jsx"
   },
   "src/routes/static.jsx": {
-    "file": "assets/static-ff941ae0.js",
+    "file": "assets/static-5810555a.js",
     "imports": [
       ".solid/index.html",
-      "_Button-65740d7f.js",
-      "_common-821be2a9.js"
+      "_Button-77de0e76.js",
+      "_common-6b15b910.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/static.jsx"
