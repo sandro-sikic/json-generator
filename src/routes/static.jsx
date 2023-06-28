@@ -74,6 +74,7 @@ export default () => {
 								<Input
 									label="Image URL"
 									value={generated().card_content.image_url}
+									validation="url"
 									onInput={(e) => {
 										const card_content = generated().card_content;
 										card_content.image_url = e;
@@ -102,6 +103,7 @@ export default () => {
 							<Input
 								label="Share url"
 								value={generated().card_content.share_url}
+								validation="url"
 								onInput={(e) => {
 									const card_content = generated().card_content;
 									card_content.share_url = e;

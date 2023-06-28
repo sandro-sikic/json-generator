@@ -106,6 +106,7 @@ export default () => {
 											<Input
 												label="Event campaign id"
 												value={event.event_campaign_id}
+												validation="integer"
 												onInput={(e) => {
 													event.event_campaign_id = e;
 													setEvents({ ...events() });
@@ -132,6 +133,7 @@ export default () => {
 											<Input
 												label="Latitude"
 												value={event.coordinates.latitude}
+												validation="float"
 												onInput={(e) => {
 													event.coordinates.latitude = e;
 													setEvents({ ...events() });
@@ -140,6 +142,7 @@ export default () => {
 											<Input
 												label="Longitude"
 												value={event.coordinates.longitude}
+												validation="float"
 												onInput={(e) => {
 													event.coordinates.longitude = e;
 													setEvents({ ...events() });
@@ -160,6 +163,7 @@ export default () => {
 											<Input
 												label="Notification pause period hours"
 												value={event.checkin_notification_pause_period_hours}
+												validation="integer"
 												onInput={(e) => {
 													event.checkin_notification_pause_period_hours = e;
 													setEvents({ ...events() });
@@ -170,6 +174,7 @@ export default () => {
 											<Input
 												label="Geofence radius meters"
 												value={event.checkin_nearby_geofence_radius_meters}
+												validation="integer"
 												onInput={(e) => {
 													event.checkin_nearby_geofence_radius_meters = e;
 													setEvents({ ...events() });
@@ -197,6 +202,7 @@ export default () => {
 											<Input
 												label="Geofence radius meters"
 												value={event.checkin_event_geofence_radius_meters}
+												validation="integer"
 												onInput={(e) => {
 													event.checkin_event_geofence_radius_meters = e;
 													setEvents({ ...events() });
